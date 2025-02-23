@@ -34,7 +34,7 @@ Netflix Clone/
 3. Open `index.html` in your browser.
 
 ## 📸 Screenshots
-![Netflix Clone Preview](https://via.placeholder.com/800x400)
+![Netflix Clone Preview](https://github.com/dishagiri23/Netflix/blob/0e0f7bcffda64bd44f99abeb5651666e828282cb/screenshot.png)
 
 ## 📌 Future Enhancements
 - 🎬 **Add Video Trailers**
