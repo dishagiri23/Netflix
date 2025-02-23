@@ -16,7 +16,7 @@ A simple Netflix clone built using **HTML** and **CSS**. This project replicates
 
 ## 📂 Project Structure
 ```
-Netflix Clone/
+Netflix /
 │── index.html   # Main HTML file
 │── style.css    # CSS styles
 └── README.md    # Project documentation
