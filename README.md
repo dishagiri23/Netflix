@@ -29,7 +29,7 @@ Netflix /
    ```
 2. Navigate to the project directory:
    ```sh
-   cd Netflix Clone
+   cd Netflix 
    ```
 3. Open `index.html` in your browser.
 
