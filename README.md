@@ -41,6 +41,9 @@ Netflix /
 - 📱 **Improve Mobile Responsiveness**
 - 🎭 **Enhance UI with More Animations**
 
+## 🎥 Live Demo  
+🔗 [Check the demo of the project on the LinkedIn post!](https://www.linkedin.com/posts/disha-giri-414a72314_netflixclone-webdevelopment-frontend-activity-7299493724869255169-ffMc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_kPtABCjw9fH2akV5Tu82nt9cl_XeXa-o) 🚀  
+
 ## 🤝 Contributing
 Contributions are always welcome! Feel free to fork the repository and submit a pull request.
 
